@@ -9,3 +9,5 @@ doublerInsert, smallArray, 51.9 μs
 doublerAppend, smallArray, 123.7 μs
 doublerInsert, tinyArray, 58.2 μs
 doublerAppend, tinyArray, 113.9 μs
+
+**runtimes standardized to microseconds for readability
